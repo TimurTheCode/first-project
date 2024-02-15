@@ -1,6 +1,12 @@
 .body {
     font-size: 18;
 }
+
+.h1 {
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
 .text {
-    font-weight: 600;
+    font-weight: 700;
 }
